@@ -1,0 +1,1 @@
+Made a crowdfunding smartcontract which collects the amount from all users to reach the goal before deadline. When the goal is reached the creator of contract which is also owner can withdraw the funds to his wallet. users can also get refund of the funds that they contributed
